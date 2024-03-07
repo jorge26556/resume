@@ -1,0 +1,81 @@
+
+header{
+    display: flex;
+    margin: 10pt;
+}
+
+.links-contact{
+    text-align: center;
+    margin-top: 5%;
+}
+.prueba{
+    display: flex;
+    flex:  200px;
+    
+}
+#general-div-contact{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+   
+}
+#contacto{
+    margin-top: 10%;
+    font-size: 20pt;
+    text-align: center;
+}
+#open-english-div{
+    flex: 1 200px;
+    margin-right: 20px;
+}
+.li-linux{
+    flex: 2 200px;
+    margin-right: 20px;
+
+}
+#links{
+    text-align: center;
+    margin-top: 80px;
+    
+}
+.h2-certificaciones{
+    text-align: center;
+}
+.h2-perfil-profesional{
+    text-align: center;
+    margin-bottom: 20pt;
+}
+h1{
+    text-align: center;
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+#img-profile{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid #453831 ;
+    margin-left: 80%;
+    
+    
+}
+body{
+    background-color: #F3F3EB;
+    margin: 20pt;
+    
+}
+h3{
+    color: #453831;
+}
+img{
+    width: 300px;
+    height: 250px;
+}
+footer{
+    text-align: center;
+}
+.a-down{
+    align-items: center;
+}
