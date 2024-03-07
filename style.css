@@ -53,11 +53,12 @@ h1{
 }
 #img-profile{
     position: relative;
+    left: 80%;
     width: 100px;
     height: 100px;
     border-radius: 50%;
     border: 1px solid #453831 ;
-    margin-left: 80%;
+    
     
     
 }
